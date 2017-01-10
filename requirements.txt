@@ -1,3 +1,2 @@
 lxml<3 
 pandas
-tushare
